@@ -1,0 +1,11 @@
+body {
+    background-color: antiquewhite;
+}
+.md-header{
+    background-color: coral;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
